@@ -1,3 +1,41 @@
 A_Resource_Whose_Name = prayers_nde_zim_oaz
 
+DiEfchonPateron.text = "Ngemikhuleko yoButhathu obungcwele, Nkosi Jesu Kristu, Nkulunkulu wethu, yiba lesihawu kithi usisize."
+
+DoxaPatri.text = "Udumo kalube kuYise, leNdodana, lakuMoya Oyingcwele."
+
+DoxaSoiChriste2 = "Udumo alube kuwe, Nkulunkulu themba lethu, udumo alube kuwe."
+
+KaiNynKaiAei.text = "Manje kuze kube nini lanini. Amen."
+
+EvlogitosOTheosImon.text = "Ubusisiwe uNkulunkulu wethu."
+
+PantoteNyn.text = "Manje kuze kube nini lanini."
+
+PaterImon.text = "Baba wethu osezulwini, malihlonitshe igama lakho, umbuso wakho mawuze, intando yakho mayenziwe emhlabeni njengasezulwini, siphe namhla ukudla kwethu okwemihla lemihla njalo sithethelele amacala ethu njengoba sibathethela abasonayo thina kodwa ungasingenisi ekulingweni kodwa usisindise kokubi."
+
+enarxis02 = "UBusisiwe umbuso kaYise le Ndodana loMoya Ongcwele, manje kuze kube nini lanini."
+
+pet00 = "Asithandazeni eNkosini."
+
+pet01 = "Ngokuthula asithandazeni eNkosini."
+
+pet02 = "Ukuthula okuvela kuNkulunkulu lokusindiswa kweMphefumulo yethu, asithandazeni eNkosini."
+
+pet04 = "Indlu le engcwele, lakulabo abayingena ngokholo, ngokuhlonipha, langokwesaba uNkulunkulu, asithandazeni eNkosini."
+
+pet05 = "Kuwo wonke amaKristu eOrthodox azinikeleyo, asithandazeni eNkosini."
+
+pet06 = "KuArchbishop wethu u(igama), kuBishop wethu u(igama) lakubalandeli abahloniphekayo, kuMadikhoni asemsebenzini kaKristu labo bonke abafundisi labantu bonke, asithandazeni eNkosini. "
+
+pet07S = "Kulizwe lethu, uMongameli labaphathi bonke, asithandazeni eNkosini."
+
+res01 = "Nkosi, sihawukele."
+
+res04 = "Amen."
+
 res08 = "Baba, busisa."
+
+res13 = "Baba ongcwele, busisa."
+
+exc20 = "Ngoba umbuso lamandla lodumo ngokukaYise leNdodaba loMoya Ongcwele, manje kuze kube nini lanini."
