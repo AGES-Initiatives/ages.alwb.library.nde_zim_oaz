@@ -30,12 +30,32 @@ pet06 = "KuArchbishop wethu u(igama), kuBishop wethu u(igama) lakubalandeli abah
 
 pet07S = "Kulizwe lethu, uMongameli labaphathi bonke, asithandazeni eNkosini."
 
+pet08alt = "Kudolobho leli, lamadolobho wonke akulelilizwe, lamakholwa wonke ahlala kuwo, asithandazeni eNkosini."
+
+pet09 = "Ukuthi kube lesimo somkhathi esihle, lokuba kube lezithelo ezinengi zomhlaba lezikhathi zomnyaka ezinhle, asithandazeni eNkosini."
+
+pet10 = "Kuzo zonke izihambi ezihamba phansi, elwandle kanye lasemoyeni, kulabo abagulayo labampofu, lababotshiweyo langokusindiswa kwabo, asithandazeni eNkosini."
+
+pet11 = "Ekuhlengweni kwethu kuzo zonke inhlupho, lolaka, engozini lasebuhlengwini, asithandazeni eNkosini."
+
+pet12 = "Sisize, sisindise, iba lesihawu kithi njalo sivikele, Nkulunkulu, ngomusa wakho."
+
+pet13 = "Sikhumbula ongcwele kakhulu, omsulwa, obusisiweyo, Ntombi elodumo, Nina kaNkulunkulu ozahlala eyintombi uMariya, labangcwele bonke, asizinikeleni ngokwethu sonke kanye lempilo zethu kuKristu uNkulunkulu wethu."
+
+pet14 = "Njalo lanjalo ngokuthula asithandazeni eNkosini."
+
 res01 = "Nkosi, sihawukele."
+
+res03 = "Kuwe, Nkosi."
 
 res04 = "Amen."
 
 res08 = "Baba, busisa."
 
 res13 = "Baba ongcwele, busisa."
+
+exc01 = "Ngoba udumo, inhlonipho kanye lokukhonza ngokukukaYise, leNdodana kanye loMoya Ongcwele, manje kuze kube nini lanini."
+
+exc02 = "Ngoba umbuso, amandla lodumo ngokukaYise leNdodana loMoya Ongcwele, manje kuze kube nini lanini."
 
 exc20 = "Ngoba umbuso lamandla lodumo ngokukaYise leNdodaba loMoya Ongcwele, manje kuze kube nini lanini."
