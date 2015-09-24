@@ -1,9 +1,19 @@
 A_Resource_Whose_Name = ps_nde_zim_oaz
 
+psa50.text = "Ngihawukela, Nkulunkulu, ngokobubele bakho; ngobunengi besihawu sakho yesula iziphambeko zami. Ungigezisise ebubini bami, ungihlambulule esonweni sami. Ngoba mina ngiyazivuma iziphambeko zami, lesono sami sihlezi siphambi kwami. Ngonile kuwe, wena wedwa, ngenze okubi emehlweni akho, ukuze kuthiwe ulungile ekukhulumeni kwakho, uhlanzeke ekwahluleleni kwakho. Khangela, ngazalelwa ebubini, lomama wangomulela esonweni. Khangela, uthanda iqiniso endaweni ezingaphakathi; lekusithekeni ungenza ngazi inhlakanipho. Ngihlanze ngehisope, ngizahlambuluka; ngigezisa, ngizakuba mhlophe kuleliqhwa elikhithikayo. Ngizwise intokozo lenjabulo, ukuze athabe amathambo owachobozileyo. Fihla ubuso bakho ezonweni zami, wesule zonke iziphambeko zami. Nkulunkulu, dala kimi inhliziyo ehlambulukileyo, njalo uvuselele umoya oqinileyo phakathi kwami. Ungangilahli ebusweni bakho, njalo ungasusi uMoya wakho Ongcwele kimi. Buyisela kimi intokozo yosindiso lwakho, ungisekele ngomoya okhululekileyo. Khona ngizafundisa abaphambukayo indlela zakho, lezoni zizaphendukela kuwe. Ngikhulula ecaleni legazi, Nkulunkulu, Nkulunkulu wosindiso lwami, ulimi lwami luzahlabelela kakhulu ngokulunga kwakho. Nkosi, vula indebe zami, lomlomo wami uzamemezela indumiso yakho. Ngoba kawuthandi umhlatshelo, ngoba bengizawunika; kawuthokozi ngomnikelo wokutshiswa. Imihlatshelo kaNkulunkulu ingumoya odabukileyo; inhliziyo edabukileyo leyephukileyo, Nkulunkulu, kawuyikuyidelela. Yenzele iZiyoni okuhle ngokuthanda kwakho; uyakhe imiduli yeJerusalema. Khona uzajabulela iminikelo yokulunga, umnikelo wokutshiswa, lomnikelo wonke; khona bezanikela amajongosi phezu kwelathi lakho."
+
+psa56.v6.text = "Kawuphakanyiswe, Nkulunkulu, phezu kwamazulu lodumo lwakho phezu komhlaba wonke."
+
 psa102.v1.text = "Ibonge iNkosi, Mphefumulo wami, lakho konke okuphakathi kwami kakubonge ibizo layo elingcwele."
 psa102.v2.text = "Ibonge iNkosi, Mphefumulo wami, ungakhohlwa yilokhu ekusize ngakho."
+
+psa112.v2alt1.text = "Libusisiwe igama leNkosi, manje kuze kube nini lanini."
+
+psa133.v2alt.text = "Phakamisela izandla zakho endaweni engcwele ubusise iNkosi."
 
 psa145.v1.text = "Dumisa iNkosi, mphefumulo wami."
 psa145.v2.text = "Ngizakuyidumisa iNkosi ngisaphila, ngizakuhlabelela uNkulunkulu wami ngisesekhona."
 psa145.v5.text = "UBusisiwe yena omsizi wakhe unguNkulunkulu kaJakobe, othemba lakhe lise Nkosini uNkulunkulu wakhe."
 psa145.v10.text = "INkosi izakubusa kuze kube nininini, uNkulunkulu wakho, Ziyone, kuze kube sezizukulwaneni zonke."
+
+psa148.v1.text = "Dumisani iNkosi esezulwini, mdumiseni ophezulu."

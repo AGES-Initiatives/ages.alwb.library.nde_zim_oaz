@@ -1,10 +1,16 @@
 A_Resource_Whose_Name = prayers_nde_zim_oaz
 
+Allilouia3.text = "Alleluya (x3)."
+
+AxionEstin.text = "Ngeqiniso kulungile ukuthi ubusisiwe, wabeletha uNkulunkulu, uzohlala ubusisiwe njalo umsulwa Nina kaNkulunkulu, uhlonipheko kwedlula ikherubi njalo udunyiswa okwedlula iserafimu, wabelethu uNkulunkulu iLizwi ngeqiniso Nina kaNkulunkulu, siyakuqakathekisa."
+
 DiEfchonPateron.text = "Ngemikhuleko yoButhathu obungcwele, Nkosi Jesu Kristu, Nkulunkulu wethu, yiba lesihawu kithi usisize."
 
 DoxaPatri.text = "Udumo kalube kuYise, leNdodana, lakuMoya Oyingcwele."
 
 DoxaSoiChriste2 = "Udumo alube kuwe, Nkulunkulu themba lethu, udumo alube kuwe."
+
+DoxaSoiKyrie = "Udumo alube kuwe Nkosi, udumo alube kuwe."
 
 KaiNynKaiAei.text = "Manje kuze kube nini lanini. Amen."
 
@@ -14,7 +20,11 @@ PantoteNyn.text = "Manje kuze kube nini lanini."
 
 PaterImon.text = "Baba wethu osezulwini, malihlonitshe igama lakho, umbuso wakho mawuze, intando yakho mayenziwe emhlabeni njengasezulwini, siphe namhla ukudla kwethu okwemihla lemihla njalo sithethelele amacala ethu njengoba sibathethela abasonayo thina kodwa ungasingenisi ekulingweni kodwa usisindise kokubi."
 
+Pistevo.text = "Ngiyakholwa kuNkulunkulu munye, uYise uSomandla, uMenzi wezulu nomhlaba, Nowakho konke okubonakalayo nokungabonakaliyo. Nakuyo iNkosi inye, uJesu Kristu, iNdodana evele yodwa kuNkulunkulu, ivele kuYise kungakabikhona izikhathi zonke, inguNkulunkulu ivela kuNkulunkulu, iyukukhanya ivela kukho ukukhanya, inguNkulunkulu impela ivela kuNkulunkulu impela eyavela engenziwanga, isiqu sayo sisinye lesikaYise, okwenziwa yiyo konke: Eyehla ezulwini ngenxa yethu thina abantu. Nangokusisindisa, yenziwa inyama ngoMoya Ongcwele kuyo intombi uMariya, yaba ngumuntu futhi yabethelwa esiphambanweni ngenxa yethu uPontiu Pilatu. Yahlupheka yabekwa elibeni. Ngosuku loButhathu yabuya yavuka njengokusemibhalweni, yenyuka yaya ezulwini, isahlezi khona ngasebunene bukaYise iyakuphinda ize ngodumo lokwahlulela abasekhona labafileyo. UMbuso wayo awuyi kuphela. NakuMoya Ongcwele, oyiNkosi ophilisayo, ophuma kuYise, obongwayo edunyiswa kanye loYise leNdodana, owatshumayelwa ngaba profethi. Ngiyakholwa nakulo ichurch linye, lingcwele likatholika, elabapostoli. Ngivuma umbabhathizo munye wokuthethelela izono, ngibheka ukuvuka kwabafileyo, nokuphila kwezikhathi ezizayo. Amen."
+
 enarxis02 = "UBusisiwe umbuso kaYise le Ndodana loMoya Ongcwele, manje kuze kube nini lanini."
+
+gos02 = "Ngokukhalipha sukumani sizweni umbhalo ongcwele."
 
 pet00 = "Asithandazeni eNkosini."
 
@@ -44,11 +54,35 @@ pet13 = "Sikhumbula ongcwele kakhulu, omsulwa, obusisiweyo, Ntombi elodumo, Nina
 
 pet14 = "Njalo lanjalo ngokuthula asithandazeni eNkosini."
 
+pet24 = "Asiqediseni umthandazo wethu eNkosini."
+
+pet25m = "Ilanga elilungileyo, elingcwele njalo lingela zono, kasiceleni eNkosini."
+
+pet26 = "Ingilosi yokuthula, umkhokheli othembekileyo, umgcini womphefumulo lemzimba yethu, kasiceleni eNkosini."
+
+pet27 = "Ukuxolelwa lokuthethelwa izono, lezimpambeko zethu, kasiceleni eNkosini."
+
+pet28 = "Kukho konke okuhle njalo okusiza imphefumulo yethu, lokuthula emhlabeni, kasiceleni eNkosini."
+
+pet29 = "Ukuze siphile impilo zethu zonke ngokuthula langokuphenduka, kasiceleni eNkosini."
+
+pet30 = "Ukuze impilo zethu ziphele simgamaKristu, ukuthula okungelakuyangeka lokuhlupheka,  lokwahlulelwa okulungileyo phambi kwesihlalo sokwahlulelwa sikaKristu, kasiceleni eNkosini."
+
+pet31 = "Ukuthula kube kini lonke."
+
+pet32 = "Asikhothamiseni amakhanda eNkosini."
+
+pet37 = "Kwangathi izibusiso zeNkosi lesihawu sakhe kungehlela kini ngomusa wakhe lothando lwakhe ebantwini, kokuphela, manje kuze kube phakade."
+
 res01 = "Nkosi, sihawukele."
+
+res02 = "Siphe, Nkosi."
 
 res03 = "Kuwe, Nkosi."
 
 res04 = "Amen."
+
+res05 = "Lakumoya wakho."
 
 res08 = "Baba, busisa."
 
@@ -58,4 +92,24 @@ exc01 = "Ngoba udumo, inhlonipho kanye lokukhonza ngokukukaYise, leNdodana kanye
 
 exc02 = "Ngoba umbuso, amandla lodumo ngokukaYise leNdodana loMoya Ongcwele, manje kuze kube nini lanini."
 
+exc03 = "Ngoba unguNkulunkulu olungileyo njalo olothando njalo kuwe sipha udumo, kuYise, leNdodana, loMoya Ongcwele, manje kuze kube nini lanini."
+
+exc05a = "Ngoba wena ongcwele, Nkulunkulu wethu, njalo kuwe sipha udumo, kuYise leNdodana kanyelakuMoya Ongcwele, manje kuze ..."
+
+exc05b = "... kube nini lanini."
+
+exc07a = "Ngomusa lesihawu lothando kithi lweNdodana yakho ezelwe yodwa, obusiswe laye kuhlangene lowakho ongcwele, olungileyo, njalo kunguMoya opha impilo, manje kuze kube nini lanini."
+
+exc11 = "Ngoba wena Nkulunkulu ulesihawu njalo uthanda abantu ngakho kuwe sipha udumo, kuYise leNdodana loMoya Ongcwele, manje kuze kube nini lanini."
+
+exc17 = "Ngokukhalipha."
+
+exc18 = "Asilaleleni."
+
+exc19 = "Asilaleleni."
+
 exc20 = "Ngoba umbuso lamandla lodumo ngokukaYise leNdodaba loMoya Ongcwele, manje kuze kube nini lanini."
+
+exc24 = "Ngoba wena nguwe osenza sibengcwele, njalo kuwe sipha udumo, kuYise leNdodana loMoya Ongcwele, manje kuze kube phakade."
+
+epi02 = "Ukuthula kube lawe obalileyo."
