@@ -1,0 +1,102 @@
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|Asterisks', 'text' : '*******************************************'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|servicebook|title', 'text' : 'ILithaji Engcwele'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|servicebook|title3', 'text' : 'Eka Johane Chrysostomo'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|doxapatrikainyn', 'text' : 'Udumo kalube kuYise leNdodana lo Moya Ongcwele, manje kuze kube nini lanini. Ameni.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|preparation|mercy', 'text' : 'Nkulunkulu ngihlanze mina moni.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|liturgy|title', 'text' : 'ILithaji Engcwele Eka Johane Chrysostomo'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|i|prayerantifon1|title', 'text' : 'UMKHULEKO WE ANTIFONI YAKUQALA'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|prayerantifon2|title', 'text' : 'UMKHULEKO WE ANTIFONI YESIBILI'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|prayerantifon3|title', 'text' : 'UMKHULEKO WE ANTIFONI YESITHATHU'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|smallentrance|title', 'text' : 'UMKHULEKO WOKUNGENA (UKUNGENA LOMBHALO ONGCWELE)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|trisagionprayer|title', 'text' : 'UMKHULEKO WEHUBO LOBUTHATHU (Trisagion)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|readings|title', 'text' : 'ISIFUNDO KUMBHALO OMUTSHA'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|gospelprayer|title', 'text' : 'UMKHULEKO WOMBHALO'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|ekteniaprayer|title', 'text' : 'UMKHULEKO WOKUCELA'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|prayercatechumens|title', 'text' : 'IMIKHULEKO YABALUNGISELELE UKUBHABHATHIZWA'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|beforeantimension|title', 'text' : '(phambi kokuvulwa kwe antimension)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|liturgyfaithful|title', 'text' : 'ILITHAJI YA BAKHOLWAYO'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|afterantimension|title', 'text' : '(Ngemva kokuvulwa kwe antimension)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|prayer2faithful|title', 'text' : 'UMKHULEKO WESIBILI WAMAKHOLWA'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|greatentrance|title', 'text' : 'UKUNGENA OKUKHULU'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|prayercherubic|title', 'text' : 'UMKHULEKO WEHUBO LEKHERUBI'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|litanygifts|title', 'text' : 'UMTHANDAZO WESIPHO EZINGCWELE'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|creed|title', 'text' : 'ISIVUMO SOKHOLO (THE CREED)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|preparationcommunion|title', 'text' : 'UKULUNGISELELA ISIDLO SENKOSI'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|litanylordsprayer|title', 'text' : 'ISICELO SOMTHANDAZO WENKOSI'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|holycommunion|title', 'text' : 'ISIDLO SENKOSI'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|thanksdismissal|title', 'text' : 'UMKHULEKO WOKUBONGA'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|prepcommunion|title', 'text' : 'UMTHANDAZO PHAMBI KWESIDLO SENKOSI'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|resurrection', 'text' : '(Sihlabela ingoma yosuku [apolytikion])'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|deaconquietly2', 'text' : 'Nxa umkhuleko usuphelile umdikhoni ngezwi eliphansi.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|blessentrance', 'text' : 'Umfundisi ngezwi eliphansi uyabusisa ukungena.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|kontakion1', 'text' : '[Ngemuva kwalokhu sihlabele ingoma yosuku (apolykition) kanye lengoma yebandla (troparion of the church)]'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|readprokimenon', 'text' : '(Ukhuluma ukuba isifundo sivela kuyiphi incwadi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|readgospel', 'text' : 'Umdikhoni sebala isifundo salelolanga.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|blesswithgospel', 'text' : 'Umfundisi uyathatha umbhalo kumdikhoni, awuqabule ebesebusisa abantu ngawo. Awufake etafuleni engcwele. Otshumayelayo uyaqala ukutshumayeza abantu ngezwi likaNkulunkulu.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|catechumens', 'text' : 'Kungalandela imikhuleko yabalungiselela ubhabhathizo (catechumens) kusinye lesinye isicelo abantu baphendula besithi: Nkosi, sihawukele.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|cherubic', 'text' : 'Abahlabelayo bahlabela ihubo leCherubic kancane kancane.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|prayercherubicsecret', 'text' : '(ngemva komkhuleko umfundisi lomdikhoni bayatsho ihubo lekherubi kathathu)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|wearaer', 'text' : '(Umfundisi aphakamise i-Aer ayifake emahlombe kamdikhoni esithi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|takegifts', 'text' : '(Abesethatha ipaten ivaliwe ayiphe umdikhoni ngonanzelelo lenhlonipho, yena athathe inkezo engcwele layo ivaliwe) (Lapho bebhoda bayakhuluma bentshintshana)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|completehymn', 'text' : '(baqedise ihubo lekherubi umfundisi lomdikhoni bangene kuOthali).'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|deaconright', 'text' : 'Umdikhoni ame esandleni sokudla phambi kwetafula engcwele athi kumfundisi lapho engena:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|priestresponse', 'text' : '(Umfundisi laye engena athi kuye)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|placegiftsaltar', 'text' : 'Umfundisi abesefaka inkezo engcwele etafuleni elingcwele, athathe ipaten kumdikhoni ayifake esandleni sokunxele eceleni kwenkezo esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|covergiftsaer', 'text' : 'Abesethatha izidikiselo kupaten lakunkezo azifake kucele elilodwa etafuleni engcwele. Athathe i-Aer emahlombe kamdikhoni ayembese kumpepha abeseyifaka phezu kwenkezo lepaten. Athathe impepha aphephe izipho kathathu umdikhoni esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|rememberpriest', 'text' : '(abuyisele impepha athi kumdikhoni)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|waveaer', 'text' : '(Lapho kukhulunywa isivumo umfundisi uyaphakamisa i-Aer ayinyikinye phezu kwenkezo lepaten.Nxa kufikwa kumazwi athi wenyuka waya ezulwini uyaqabula isiphambano phakathi kwaso asigoqe asifake eceleni lamalembu)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|forvigilance', 'text' : 'Bayaguqa bobabili umfundisi aqhubeke ngezwi eliphansi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|bowcommunion', 'text' : '(umfundisi lomdikhoni esendaweni yakhe bayakhothama kathathu besithi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|crossorarion', 'text' : 'Umdikhoni uyangena ku Othali, esebophile i-orarion ngendlela yesiphambano uyama esandleni sokudla sikamfundisi esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|breakbread', 'text' : 'Umfundisi uyahlephuna isinkwa kuzigaba ezine esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|placecrosswise', 'text' : 'Uyazifaka kupaten ngesibonakaliso sesiphambano.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|fillchalice', 'text' : 'Umdikhoni uyakhombela kunkezo ngeOrarion esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|ic', 'text' : 'Umfundisi uyathatha isiqephu semvana esilo IC enze isibonakaliso sesiphambano ngaso phezu kwenkezo engcwele asifake phakathi esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|takezeon', 'text' : '(uyathatha amanzi atshisayo athi kumfundisi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|blesszeon', 'text' : '(umfundisi awabusise esithi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|pourzeon', 'text' : 'Umdikhoni athele amanzi atshisayo enkezweni ngesibonakaliso sesiphambano esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|approachbody', 'text' : 'Uyacela uxolo kulabo abaku Othali lakubandla lonke. Asondele kutafula elingcwele athi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|xc', 'text' : 'Uyathatha isiqephu somzimba oligugu kakhristu kusiqephu esibhalwe amabala XC athi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|wipehand', 'text' : '(Abe seyemukela isinkwa esingcwele ngokwesaba langonanzelelo olukhulu, esehlikihlile isandla sakhe phezu kwepaten ngesipontshi uyathi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|deaconcommune', 'text' : 'Umdikhoni esondela uyathi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|deaconcommune2', 'text' : 'Umfundisi uyapha umdikhoni isiqephu sesinkwa  esingcwele kusiqephu esidindwe XC athi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|deaconcommune3', 'text' : 'Umdikhoni uyaqabula isandla sikamfundisi abuyele ngemva kwetafula engcwele akhulume njengomfundisi'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|chaliceandcloth', 'text' : 'Umfundisi uyathatha inkezo lelembu lokwemukela athi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|drinkthrice', 'text' : 'Uyanatha kathathu enkezweni, ahlikihle indebe zakhe lenkezo ngelembu, aqabule inkezo esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|deaconcommune4', 'text' : 'Abe esesithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|deaconcommune5', 'text' : 'Umdikhoni esehlikihlile ngonanzelelo izandla zakhe ngesipontshi phezu kwepaten uyasondela esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|nika', 'text' : '(Umdikhoni uyahlephuna iziqephu ezimbili eziseleyo zemvana NI lo KA zibe yiziqephu ezincinyane azifake enkezweni abesevala ngelembu lesidlo. Abesefaka ukhezo phezu kwenkezo evaliweyo. Ngokuhlonipha athi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|approach', 'text' : 'Iminyango engcwele iyavulwa, umfundisi aphe umdikhoni inkezo, aphume ngomnyango ongcwele ethwele inkezo esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|distributionprayer', 'text' : '(Umdikhoni uyaqhubela umfundisi inkezo yena opha abantu isidlo esithi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|replacechalice', 'text' : '(Lapho abantu sebeyemukele, umfundisi uyapha inkezo kumdikhoni, yena oyifaka etafuleni elingcwele futhi)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|blesshand', 'text' : 'Umfundisi uyabusisa abantu ngesandla sakhe esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|wipeparticles', 'text' : 'Ngamadili eNkosi kuhlatshelwa i-apolitika yedili, kuthi ngephasika kuhlatshelwe eyephasika. Ngamadili eNkosi kuhlatshelwa i-apolitika yedili, kuthi ngephasika kuhlatshelwe eyephasika.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|exaltmaster', 'text' : 'Umdikhoni uyathi kumfundisi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|censeexalt', 'text' : 'Umfundisi uyaphepha inkezo kathathu esithi ngasikhathi sinye esithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|showcoversstar', 'text' : 'Abe sesipha ipaten ilezidikiselo lenkanyezi kumdikhoni, yena okutshengisa abantu abesefaka kutafula lomhlatshelo ahambe ngemva kwetafula engcwele. Abesethukulula i-orarion.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|blessed', 'text' : 'Umfundisi uyakhothama, athathe inkezo athi ngezwi eliphansi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|blessed2', 'text' : 'Atshibilike akhangele abantu aqhubeke;'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|foldantimension', 'text' : 'Umfundisi uyafaka inkezo phezu kwetafula lomhlatshelo, abuyele agoqe i-antimension eqaphelisa ukuba akusalanga mvuthu.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|havingpartaken', 'text' : 'Umdikhoni uyaphuma phandle athi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|crossantimensiongospel', 'text' : 'Ekhulumela phezulu esenza isibonakaliso sesiphambano ngombhalo phezu kwe-antimension egoqiweyo.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|ambonprayer', 'text' : 'Umfundisi uyaphuma ngomnyango Ongcwele, phambili komfanekiso kaKristu kumbe ngaphansi kwe Solea phakathi kwebandla ebala esithi…)'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|pliromanomou', 'text' : 'Umfundisi uyabuyela kuOthali ngomnyango ongcwele, ayekutafula lomhlatshelo athi ngezwi eliphansi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|rubric|evlogiakyriou', 'text' : 'Umfundisi uyaphuma ngomnyango ongcwele abusise abantu asithi:'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|blessreader', 'text' : 'Baba, busisa lo obala amazwi alungileyo kampostoli ongcwele olodumo umvangeli (ibizo) Matewu, Lukha, Johane, Makho.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|blessreader2', 'text' : 'Kwangathi uNkulunkulu ngemithandazo kampostoli ongcwele olodumo umvangeli (ibizo) angakuvumela ukubala amazwi angcwele ngamandla amakhulu, ekugcwalisekeni kombhalo weNdodana yakhe ethandekayo, iNkosi yethu uJesu Khristu.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|cherubic2', 'text' : 'Ukuze semukele iNkosi yakho konke. Ephelekezelwa okungabonakaliyo libutho lezingilosi. Aleluya x3'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|eparon', 'text' : 'Baba, phakamisa.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|holydiaconate', 'text' : 'Kwangathi iNkosi uNkulunkulu ingakhumbula ubudikhoni bakho embusweni wakhe, manje kuze kube nini lanini.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|noblejoseph', 'text' : 'UJosefa olungileyo, esethule umzimba wakho omsulwa esihlahleni wawugoqela ngengubo ehlanzekileyo elamakha anukelelayo wasewulalisa ethuneni elitsha.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|praypriest', 'text' : 'Ngithandazele, mfowethu wena osebenza lami.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|tasa', 'text' : 'Silinikeza okwenu kungokwenu, kuzinto zonke zezinto zonke.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|seimnumen', 'text' : 'Siyakudumisa, siyakubusisa, siyakubonga, O Nkosi, njalo siyathandaza kuwe, Nkulunkulu wethu.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|pliroma', 'text' : 'Ukugcwaliseka koMoya Ongcwele.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|zesis', 'text' : 'Ukufudumala koMoya Ongcwele. Amen.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|deaconcommune', 'text' : 'Mdikhoni, sondela eduze.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|deaconcommune2', 'text' : 'Mdikhoni, sondela eduze futhi.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|approachagain', 'text' : 'Khangela njalo ngiyasondela kuKhristu iNkosi yethu engafiyo uNkulunkulu njalo enguMsindisi, uJesu Kristu, ukuze ngithethelelwe izono ngibe lokuphila okungapheliyo.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|etimetadidotai', 'text' : 'Igazi eliligugu njalo elingcwele leNkosi yethu, uNkulunkulu njalo enguMsindisi, uJesu Kristu, liphiwa wena mdikhoni ohloniphekayo (ibizo), ukuze uthethelelwe izono ube lokuphila okungapheliyo.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|godisthelord', 'text' : 'Ubusisiwe lo oza egameni leNkosi. INkosi inguNkulunkulu njalo isivelile kithi.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|distributionprayershort', 'text' : 'Inceku kaNkulunkulu (ibizo) iyamukela umziba legazi okuligugu njalo okungcwele kweNkosi yethu, uNkulunkulu njalo enguMsindisi, uJesu Khristu, ukuze ithethelelwe izono ibe lokuphila okungapheliyo.'}
+{'id_' : 'pub|priest|servicebook_nde_zim_oaz|li|lordsname', 'text' : 'Egameni leNkosi.'}
